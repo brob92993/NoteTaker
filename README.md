@@ -23,7 +23,7 @@
   
   ## Usage
   
-  [Walkthrough1](img/nodeserverpicture.PNG)
+  
 
   ![Walkthroughvideo](img/NoteTakerWalkthrough.gif)
 
