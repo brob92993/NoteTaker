@@ -18,12 +18,14 @@
   
   ## Installation
   
-  To install necessary dependencies, run the following command: "npm i".
+  To install necessary dependencies, run the following command: "npm i". 
   
   
   ## Usage
   
-  ![Walkthrough]()
+  [Walkthrough1](img/nodeserverpicture.PNG)
+
+  ![Walkthroughvideo](img/NoteTakerWalkthrough.gif)
 
   
   ## License
